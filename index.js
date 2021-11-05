@@ -17,3 +17,4 @@ mongoose.connect('mongodb+srv://granpas:granpas@cluster0.blcmi.mongodb.net/ortho
 		});
 	}
 });
+
